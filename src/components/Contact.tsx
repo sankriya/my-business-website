@@ -55,19 +55,19 @@ const Contact = () => {
     {
       icon: Phone,
       title: "Phone",
-      details: "+91 XXXXX XXXXX",
+      details: "+91 7989117044 ",
       gradient: "from-green-500 to-emerald-500"
     },
     {
       icon: Mail,
       title: "Email",
-      details: "info@sankriyasolutions.com",
+      details: "info@sankriya.com",
       gradient: "from-blue-500 to-cyan-500"
     },
     {
       icon: MapPin,
       title: "Address",
-      details: "India",
+      details: "D.No.11-84 N 504D, LS Likitha Pride,GNT Road, Mangalagiri, Guntur, Andhra Pradesh, India, 522503",
       gradient: "from-purple-500 to-pink-500"
     }
   ];
@@ -236,7 +236,7 @@ const Contact = () => {
                   <p className="text-gray-600 text-sm leading-relaxed">
                     Whether you need research solutions, supply chain optimization, 
                     AI implementation, or any of our specialized services, we're here 
-                    to help turn your vision into reality.
+                    to turn your vision into reality.
                   </p>
                 </div>
               </div>
